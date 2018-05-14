@@ -1,0 +1,23 @@
+#primary-menu li.menu-item a {
+	background-color:#FF9C00;
+	color:#ffffff;
+	border-radius:5px;
+	border-top-left-radius: 60px 100px;
+	border-top-right-radius: 60px 100px;
+}
+
+#primary-menu li.menu-item a:hover {
+	background-color:#0274be;
+	color:#ffffff;
+	border-radius:5px;
+	border-top-left-radius: 60px 100px;
+	border-top-right-radius: 60px 100px;
+}
+
+#primary-menu li.current-menu-item a {
+	background-color:#0274be;
+	color:#ffffff;
+	border-radius:5px;
+	border-top-left-radius: 60px 100px;
+	border-top-right-radius: 60px 100px;
+}
