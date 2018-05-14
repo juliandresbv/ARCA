@@ -1,5 +1,5 @@
 #primary-menu li.menu-item a {
-	background-color:#FF9C00;
+	background-color:#f4a309;
 	color:#ffffff;
 	border-radius:5px;
 	border-top-left-radius: 60px 100px;
@@ -7,7 +7,7 @@
 }
 
 #primary-menu li.menu-item a:hover {
-	background-color:#0274be;
+	background-color:#0085ba;
 	color:#ffffff;
 	border-radius:5px;
 	border-top-left-radius: 60px 100px;
@@ -15,7 +15,7 @@
 }
 
 #primary-menu li.current-menu-item a {
-	background-color:#0274be;
+	background-color:#0085ba;
 	color:#ffffff;
 	border-radius:5px;
 	border-top-left-radius: 60px 100px;
